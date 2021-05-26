@@ -1,6 +1,6 @@
-## Portfolio1
+# Portfolio1
 Responsive Portfolio Website using HTML & CSS.
-# In this website I:
+## In this website I:
 * Render all Elements Normally
 * Using Font Awesome Library
 * Using Google Fonts
